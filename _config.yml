@@ -21,7 +21,7 @@
 title: Jekyll with rollup-js
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Tutorial to setup rollup-js with jekyll. references Grafikart "Tutorial javascript/Rollup.js".
+  Boilerplate to start any project with Jekyll and rollup-js. references George Treviranus.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: fouadpy

@@ -1,0 +1,17 @@
+
+.btn{
+  display: inline-block;
+  font-weight: 700;
+  padding: 1rem 2rem;
+  cursor: pointer;
+  margin: 1rem;
+  background-color: $blue;
+  background: linear-gradient(135deg,$blue 30%,$green 100%);
+  &:hover{
+    background-color: #23aadd;
+    background: linear-gradient(135deg,#23aadd 30%,$green 100%);
+  }
+}
+
+
+// transition for line under menu text "transition: all .3s cubic-bezier(.175,.885,.32,1.275)"
